@@ -2,5 +2,5 @@
 <manifest>
   <project name="rzlamrr/device_xiaomi_riva" path="device/xiaomi/riva" remote="github" revision="ten" />
   <project name="rzlamrr/vendor_xiaomi_riva" path="vendor/xiaomi/riva" remote="github" revision="lineage-17.1" />
-  <project name="SunnyRaj84348/android_kernel_xiaomi_msm8917" path="kernel/xiaomi/msm8917" remote="github" revision="lineage-17.1" />
+  <project name="GreenForce-project-repository/kernel_xiaomi_rova_sd425" path="kernel/xiaomi/msm8917" remote="github" revision="lineage-17.1" />
 </manifest>
